@@ -8,6 +8,10 @@ Sistem je prilagođen za:
 - **Svakodnevni rad:** Brz odziv UI-a i minimalna potrošnja RAM-a/procesora
 - **Gaming:** Smanjen input lag, optimizovan mrežni stack i stabilniji FPS
 
+  ## 📥 Download
+[ ![Download Muki Pro]
+(https://img.shields.io/badge/Download-Muki_Pro_ISO-blue?style=for-the-badge&logo=google-drive) ](TVOJ_LINK_OVDJE)
+
 ## 🛠️ Instalacija
 Odaberite jedan od dva načina za pokretanje instalacije:
 

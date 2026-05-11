@@ -89,7 +89,7 @@ Desni klik na particiju gdje je bio stari Windows-> Format
 
 Da bi spojio tih 50GB sa ostatkom diska u jedan veliki C:
 
-[![Download MiniTool Partition Wizard](https://img.shields.io/badge/DOWNLOAD-Direct%20Link-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://cdn2.minitool.com/?p=pw&e=pw-free)
+[![Download MiniTool Partition Wizard](https://img.shields.io/badge/DOWNLOAD-Mini%20Partition%20Wizard-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://cdn2.minitool.com/?p=pw&e=pw-free-online)
 
 U njemu uradi desni klik na C: (50GB) -> Extend -> izvuci klizač do kraja da "proguta" formatiranu particiju
 

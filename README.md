@@ -16,7 +16,7 @@ Sistem je prilagođen za:
 > **Napomena:** Zbog veličine fajla (3.3GB),
 > Google Drive će prikazati poruku da ne može skenirati fajl na viruse. 
 
-Samo kliknite na **"Download anyway"**.*
+Samo kliknite na **"Download anyway"**
 
 ## 🛠️ Instalacija
 Odaberite jedan od dva načina za pokretanje instalacije:

@@ -1,4 +1,4 @@
-# Muki Pro ISO 🚀
+# Muki ISO 🚀
 
 Ovo je modifikovana verzija **Windows 10 Pro 22H2** optimizovana za maksimalne performanse
 

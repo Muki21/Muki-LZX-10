@@ -1,6 +1,7 @@
 # Muki Pro ISO 🚀
 
 Ovo je modifikovana verzija **Windows 10 Pro 22H2** optimizovana za maksimalne performanse
+
 Fokus na eliminaciju nepotrebnih servisa i telemetrije uz zadržavanje stabilnosti sistema
 
 ## ✨ Opis

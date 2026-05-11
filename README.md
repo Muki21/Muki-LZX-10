@@ -12,9 +12,9 @@ Sistem je prilagođen za:
 ## 📥 Download
 [ ![Download Muki Pro](https://img.shields.io/badge/Download-Muki_Pro_ISO-blue?style=for-the-badge&logo=google-drive) ](https://drive.google.com/uc?export=download&id=1F4IspALWMuhKj9kkO_P8HVtJ3wDc-dvi)
 
-*Napomena: Zbog veličine fajla (3.3GB),
-
-Google Drive će prikazati poruku da ne može skenirati fajl na viruse. 
+> [!CAUTION]
+> **Napomena:** Zbog veličine fajla (3.3GB),
+> Google Drive će prikazati poruku da ne može skenirati fajl na viruse. 
 
 Samo kliknite na **"Download anyway"**.*
 
